@@ -1,0 +1,8 @@
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.Json.dll
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\anshi\Desktop\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
